@@ -1,0 +1,15 @@
+ion-row {
+    &.header-row {
+      background-color: #f0f0f0; 
+      font-weight: bold; 
+    }
+  
+    &.ion-odd {
+      background-color: #e5e5e5; 
+    }
+  
+    &.ion-even {
+      background-color: #f9f9f9; 
+    }
+  }
+  
